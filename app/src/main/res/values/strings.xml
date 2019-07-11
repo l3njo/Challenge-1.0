@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Challenge 1.0</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="internet_unavailable">No internet connection available.</string>
+    <string name="internet_available">Internet Connected! Loading...</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Kenya</string>
+    <string name="email">Email: plenjo15@gmail.com</string>
+    <string name="phone_number">Phone Number: +254798567790</string>
+    <string name="slack_username">Slack Username: @peter_lenjo</string>
+    <string name="name">Peter Lenjo</string>
+    <string name="profile_image">profile image</string>
+</resources>
